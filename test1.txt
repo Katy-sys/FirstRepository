@@ -1,6 +1,4 @@
 Hello1
 Hello++
 Good bye!
-erty
-Line from user2
-Anothe line from user1
+Line from user1 - lesson about rebase
